@@ -1,0 +1,13 @@
+segment_sources:
+  ID40F0D0F:
+    type: origin_type
+    relation: translation
+    language: bo
+  I8C165740:
+    type: origin_type
+    relation: translation
+    language: en
+segment_pairs:
+  6d0f32bb60304d0c9465ddcd95e0685b:
+    ID40F0D0F: e45cc4f09c744d3fb2e5c1b94275d8dd
+    I8C165740: cdd505472c5c419eb606e455d422f261
